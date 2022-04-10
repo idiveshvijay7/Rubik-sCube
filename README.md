@@ -3,9 +3,6 @@ Simulator of Rubik's Cube made in C++ and modern OpenGL. All rotation are descri
 
 ![Screenshot](Photo.png?raw=true "Rubiks Cube")
 
-Watch demo
-[![Wath demo](Thumbnail.jpg)](https://www.youtube.com/watch?v=SwNfgiKTIa4&feature=youtu.be)
-
 ## Controlls
 To rotate Front, Back, Up, Down, Left or Right face clockwise press respectively F, B, U, D, L or R key. 
 For counter counter-clockwise rotation simply hold shift when rotating face.

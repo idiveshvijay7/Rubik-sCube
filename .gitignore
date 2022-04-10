@@ -1,0 +1,22 @@
+# OS X
+*.DS_Store
+
+# XCode
+*.xcodeproj
+
+# Visual Studio
+Debug/
+Release/
+*.vcxproj*
+
+# External Libraries
+*.dll
+*.exp
+*.lib
+*.ini
+
+# Dependencies
+dependencies/
+
+# Exceptions
+!dependencies/imgui/imconfig.h 

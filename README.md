@@ -21,4 +21,4 @@ To change cube's orientation simply press X, Y oraz Z to rotate around correspon
 * GLM
 * Assimp
 * STB
-* imgui
+* imgui# Rubik-sCube
